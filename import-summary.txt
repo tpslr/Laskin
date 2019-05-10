@@ -1,0 +1,1439 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .eclipse-pmd
+* .gitignore
+* AndroidManifest.xml
+* Rubi\
+* Rubi\IntegrationUtilityFunctions.m
+* Rubi\RubiRules4.16.0.m
+* Rubi\RubiRules4.16.0_FullLHS.m
+* beakerx\
+* beakerx\SymjaGroovy.ipynb
+* doc\
+* doc\combinatorial.md
+* doc\comparison.md
+* doc\comparisons-and-boolean-logic.md
+* doc\control-statements.md
+* doc\expression-types.md
+* doc\functions-and-patterns.md
+* doc\functions\
+* doc\functions\Abort.md
+* doc\functions\Abs.md
+* doc\functions\AbsArg.md
+* doc\functions\Accumulate.md
+* doc\functions\AddTo.md
+* doc\functions\All.md
+* doc\functions\AllTrue.md
+* doc\functions\Alternatives.md
+* doc\functions\And.md
+* doc\functions\AngleVector.md
+* doc\functions\Annuity.md
+* doc\functions\AnnuityDue.md
+* doc\functions\AntihermitianMatrixQ.md
+* doc\functions\AntisymmetricMatrixQ.md
+* doc\functions\AnyTrue.md
+* doc\functions\Apart.md
+* doc\functions\Append.md
+* doc\functions\AppendTo.md
+* doc\functions\Apply.md
+* doc\functions\ArcCos.md
+* doc\functions\ArcCosh.md
+* doc\functions\ArcCot.md
+* doc\functions\ArcCoth.md
+* doc\functions\ArcCsc.md
+* doc\functions\ArcCsch.md
+* doc\functions\ArcSec.md
+* doc\functions\ArcSech.md
+* doc\functions\ArcSin.md
+* doc\functions\ArcSinh.md
+* doc\functions\ArcTan.md
+* doc\functions\ArcTanh.md
+* doc\functions\Arg.md
+* doc\functions\ArithmeticGeometricMean.md
+* doc\functions\Array.md
+* doc\functions\ArrayDepth.md
+* doc\functions\ArrayPad.md
+* doc\functions\ArrayQ.md
+* doc\functions\ArrayReshape.md
+* doc\functions\AtomQ.md
+* doc\functions\Attributes.md
+* doc\functions\Begin.md
+* doc\functions\BeginPackage.md
+* doc\functions\BellB.md
+* doc\functions\BellY.md
+* doc\functions\BernoulliB.md
+* doc\functions\BernoulliDistribution.md
+* doc\functions\BesselJ.md
+* doc\functions\Beta.md
+* doc\functions\BinCounts.md
+* doc\functions\BinaryDeserialize.md
+* doc\functions\BinarySerialize.md
+* doc\functions\Binomial.md
+* doc\functions\BinomialDistribution.md
+* doc\functions\BitLength.md
+* doc\functions\Block.md
+* doc\functions\Boole.md
+* doc\functions\BooleanConvert.md
+* doc\functions\BooleanMinimize.md
+* doc\functions\BooleanQ.md
+* doc\functions\BooleanTable.md
+* doc\functions\BooleanVariables.md
+* doc\functions\Booleans.md
+* doc\functions\BrayCurtisDistance.md
+* doc\functions\Break.md
+* doc\functions\ByteArray.md
+* doc\functions\ByteArrayQ.md
+* doc\functions\CDF.md
+* doc\functions\CanberraDistance.md
+* doc\functions\Cancel.md
+* doc\functions\CarmichaelLambda.md
+* doc\functions\CartesianProduct.md
+* doc\functions\Cases.md
+* doc\functions\Catalan.md
+* doc\functions\CatalanNumber.md
+* doc\functions\Catenate.md
+* doc\functions\Ceiling.md
+* doc\functions\CentralMoment.md
+* doc\functions\CharacteristicPolynomial.md
+* doc\functions\ChebyshevT.md
+* doc\functions\ChebyshevU.md
+* doc\functions\ChessboardDistance.md
+* doc\functions\ChineseRemainder.md
+* doc\functions\CholeskyDecomposition.md
+* doc\functions\Chop.md
+* doc\functions\CirclePoints.md
+* doc\functions\Clear.md
+* doc\functions\ClearAll.md
+* doc\functions\ClearAttributes.md
+* doc\functions\Clip.md
+* doc\functions\Coefficient.md
+* doc\functions\CoefficientList.md
+* doc\functions\Collect.md
+* doc\functions\Complement.md
+* doc\functions\Complex.md
+* doc\functions\ComplexExpand.md
+* doc\functions\ComplexInfinity.md
+* doc\functions\Complexes.md
+* doc\functions\ComposeList.md
+* doc\functions\ComposeSeries.md
+* doc\functions\Composition.md
+* doc\functions\CompoundExpression.md
+* doc\functions\Condition.md
+* doc\functions\Conjugate.md
+* doc\functions\ConjugateTranspose.md
+* doc\functions\Constant.md
+* doc\functions\ConstantArray.md
+* doc\functions\Context.md
+* doc\functions\Continue.md
+* doc\functions\ContinuedFraction.md
+* doc\functions\Convergents.md
+* doc\functions\CoprimeQ.md
+* doc\functions\Correlation.md
+* doc\functions\Cos.md
+* doc\functions\Cosh.md
+* doc\functions\CosineDistance.md
+* doc\functions\Cot.md
+* doc\functions\Coth.md
+* doc\functions\Count.md
+* doc\functions\Covariance.md
+* doc\functions\Cross.md
+* doc\functions\Csc.md
+* doc\functions\Csch.md
+* doc\functions\CubeRoot.md
+* doc\functions\Curl.md
+* doc\functions\Cyclotomic.md
+* doc\functions\D.md
+* doc\functions\DSolve.md
+* doc\functions\Decrement.md
+* doc\functions\Defer.md
+* doc\functions\Definition.md
+* doc\functions\Degree.md
+* doc\functions\DeleteCases.md
+* doc\functions\DeleteDuplicates.md
+* doc\functions\Denominator.md
+* doc\functions\Depth.md
+* doc\functions\Derivative.md
+* doc\functions\DesignMatrix.md
+* doc\functions\Det.md
+* doc\functions\Diagonal.md
+* doc\functions\DiagonalMatrix.md
+* doc\functions\DiceDissimilarity.md
+* doc\functions\Diff.md
+* doc\functions\DigitQ.md
+* doc\functions\Dimensions.md
+* doc\functions\DiracDelta.md
+* doc\functions\DirectedInfinity.md
+* doc\functions\DiscreteDelta.md
+* doc\functions\DiscreteUniformDistribution.md
+* doc\functions\Discriminant.md
+* doc\functions\Distribute.md
+* doc\functions\Div.md
+* doc\functions\Divergence.md
+* doc\functions\Divide.md
+* doc\functions\DivideBy.md
+* doc\functions\Divisible.md
+* doc\functions\DivisorSigma.md
+* doc\functions\Divisors.md
+* doc\functions\Do.md
+* doc\functions\Dot.md
+* doc\functions\Drop.md
+* doc\functions\E.md
+* doc\functions\EffectiveInterest.md
+* doc\functions\Eigenvalues.md
+* doc\functions\Eigenvectors.md
+* doc\functions\Element.md
+* doc\functions\ElementData.md
+* doc\functions\Eliminate.md
+* doc\functions\EllipticE.md
+* doc\functions\EllipticF.md
+* doc\functions\EllipticK.md
+* doc\functions\EllipticPi.md
+* doc\functions\End.md
+* doc\functions\EndPackage.md
+* doc\functions\Equal.md
+* doc\functions\Equivalent.md
+* doc\functions\Erf.md
+* doc\functions\Erfc.md
+* doc\functions\ErlangDistribution.md
+* doc\functions\EuclideanDistance.md
+* doc\functions\EulerE.md
+* doc\functions\EulerPhi.md
+* doc\functions\EvalF.md
+* doc\functions\EvenQ.md
+* doc\functions\ExactNumberQ.md
+* doc\functions\Except.md
+* doc\functions\Exp.md
+* doc\functions\Expand.md
+* doc\functions\ExpandAll.md
+* doc\functions\Expectation.md
+* doc\functions\Exponent.md
+* doc\functions\ExponentialDistribution.md
+* doc\functions\Export.md
+* doc\functions\ExtendedGCD.md
+* doc\functions\Extract.md
+* doc\functions\Factor.md
+* doc\functions\FactorInteger.md
+* doc\functions\FactorSquareFree.md
+* doc\functions\FactorSquareFreeList.md
+* doc\functions\FactorTerms.md
+* doc\functions\Factorial.md
+* doc\functions\Factorial2.md
+* doc\functions\False.md
+* doc\functions\Fibonacci.md
+* doc\functions\FindFit.md
+* doc\functions\FindInstance.md
+* doc\functions\FindRoot.md
+* doc\functions\First.md
+* doc\functions\Fit.md
+* doc\functions\FiveNum.md
+* doc\functions\FixedPoint.md
+* doc\functions\FixedPointList.md
+* doc\functions\Flat.md
+* doc\functions\Flatten.md
+* doc\functions\FlattenAt.md
+* doc\functions\Floor.md
+* doc\functions\Fold.md
+* doc\functions\FoldList.md
+* doc\functions\For.md
+* doc\functions\FourierMatrix.md
+* doc\functions\FractionalPart.md
+* doc\functions\FrechetDistribution.md
+* doc\functions\FreeQ.md
+* doc\functions\FrobeniusNumber.md
+* doc\functions\FrobeniusSolve.md
+* doc\functions\FromContinuedFraction.md
+* doc\functions\FromDigits.md
+* doc\functions\FromPolarCoordinates.md
+* doc\functions\FullForm.md
+* doc\functions\FullSimplify.md
+* doc\functions\FunctionExpand.md
+* doc\functions\GCD.md
+* doc\functions\Gamma.md
+* doc\functions\GammaDistribution.md
+* doc\functions\GeometricDistribution.md
+* doc\functions\Get.md
+* doc\functions\Glaisher.md
+* doc\functions\GoldenRatio.md
+* doc\functions\Grad.md
+* doc\functions\Greater.md
+* doc\functions\GreaterEqual.md
+* doc\functions\GroebnerBasis.md
+* doc\functions\GumbelDistribution.md
+* doc\functions\HarmonicNumber.md
+* doc\functions\Haversine.md
+* doc\functions\Head.md
+* doc\functions\HermiteH.md
+* doc\functions\HermitianMatrixQ.md
+* doc\functions\HilbertMatrix.md
+* doc\functions\Hold.md
+* doc\functions\HoldAll.md
+* doc\functions\HoldFirst.md
+* doc\functions\HoldForm.md
+* doc\functions\HoldPattern.md
+* doc\functions\HoldRest.md
+* doc\functions\HornerForm.md
+* doc\functions\Hypergeometric0F1.md
+* doc\functions\Hypergeometric1F1.md
+* doc\functions\Hypergeometric2F1.md
+* doc\functions\HypergeometricDistribution.md
+* doc\functions\I.md
+* doc\functions\Identity.md
+* doc\functions\IdentityMatrix.md
+* doc\functions\If.md
+* doc\functions\Im.md
+* doc\functions\Implies.md
+* doc\functions\Import.md
+* doc\functions\Increment.md
+* doc\functions\Indeterminate.md
+* doc\functions\InexactNumberQ.md
+* doc\functions\Infinity.md
+* doc\functions\Inner.md
+* doc\functions\Int.md
+* doc\functions\Integer.md
+* doc\functions\IntegerDigits.md
+* doc\functions\IntegerExponent.md
+* doc\functions\IntegerLength.md
+* doc\functions\IntegerPart.md
+* doc\functions\IntegerPartitions.md
+* doc\functions\IntegerQ.md
+* doc\functions\Integers.md
+* doc\functions\Integrate.md
+* doc\functions\InterpolatingFunction.md
+* doc\functions\InterpolatingPolynomial.md
+* doc\functions\Intersection.md
+* doc\functions\Inverse.md
+* doc\functions\InverseErf.md
+* doc\functions\InverseErfc.md
+* doc\functions\InverseFunction.md
+* doc\functions\InverseHaversine.md
+* doc\functions\InverseLaplaceTransform.md
+* doc\functions\InverseSeries.md
+* doc\functions\JaccardDissimilarity.md
+* doc\functions\JacobiMatrix.md
+* doc\functions\JacobiSymbol.md
+* doc\functions\JavaForm.md
+* doc\functions\Join.md
+* doc\functions\Khinchin.md
+* doc\functions\KolmogorovSmirnovTest.md
+* doc\functions\KroneckerDelta.md
+* doc\functions\Kurtosis.md
+* doc\functions\LCM.md
+* doc\functions\LUDecomposition.md
+* doc\functions\LaguerreL.md
+* doc\functions\LaplaceTransform.md
+* doc\functions\Last.md
+* doc\functions\LeastSquares.md
+* doc\functions\LegendreP.md
+* doc\functions\LegendreQ.md
+* doc\functions\Length.md
+* doc\functions\Less.md
+* doc\functions\LessEqual.md
+* doc\functions\LetterQ.md
+* doc\functions\Level.md
+* doc\functions\LevelQ.md
+* doc\functions\Limit.md
+* doc\functions\LinearProgramming.md
+* doc\functions\LinearRecurrence.md
+* doc\functions\LinearSolve.md
+* doc\functions\List.md
+* doc\functions\ListConvolve.md
+* doc\functions\ListCorrelate.md
+* doc\functions\ListQ.md
+* doc\functions\Listable.md
+* doc\functions\Ln.md
+* doc\functions\Log.md
+* doc\functions\Log10.md
+* doc\functions\Log2.md
+* doc\functions\LogNormalDistribution.md
+* doc\functions\LogisticSigmoid.md
+* doc\functions\LowerTriangularize.md
+* doc\functions\LucasL.md
+* doc\functions\MachineNumberQ.md
+* doc\functions\MangoldtLambda.md
+* doc\functions\ManhattanDistance.md
+* doc\functions\Map.md
+* doc\functions\MapIndexed.md
+* doc\functions\MapThread.md
+* doc\functions\MatchQ.md
+* doc\functions\MatchingDissimilarity.md
+* doc\functions\MathMLForm.md
+* doc\functions\MatrixMinimalPolynomial.md
+* doc\functions\MatrixPower.md
+* doc\functions\MatrixQ.md
+* doc\functions\MatrixRank.md
+* doc\functions\Max.md
+* doc\functions\Maximize.md
+* doc\functions\Mean.md
+* doc\functions\Median.md
+* doc\functions\MemberQ.md
+* doc\functions\MersennePrimeExponent.md
+* doc\functions\MersennePrimeExponentQ.md
+* doc\functions\Message.md
+* doc\functions\MessageName.md
+* doc\functions\Min.md
+* doc\functions\Minimize.md
+* doc\functions\Minus.md
+* doc\functions\MissingQ.md
+* doc\functions\Mod.md
+* doc\functions\Module.md
+* doc\functions\MoebiusMu.md
+* doc\functions\MonomialList.md
+* doc\functions\Most.md
+* doc\functions\Multinomial.md
+* doc\functions\MultiplicativeOrder.md
+* doc\functions\N.md
+* doc\functions\NHoldAll.md
+* doc\functions\NHoldFirst.md
+* doc\functions\NHoldRest.md
+* doc\functions\NIntegrate.md
+* doc\functions\NMaximize.md
+* doc\functions\NMinimize.md
+* doc\functions\NRoots.md
+* doc\functions\NSolve.md
+* doc\functions\NakagamiDistribution.md
+* doc\functions\Nand.md
+* doc\functions\Negative.md
+* doc\functions\Nest.md
+* doc\functions\NestList.md
+* doc\functions\NestWhile.md
+* doc\functions\NestWhileList.md
+* doc\functions\NextPrime.md
+* doc\functions\NonNegative.md
+* doc\functions\NonPositive.md
+* doc\functions\None.md
+* doc\functions\NoneTrue.md
+* doc\functions\Nor.md
+* doc\functions\Norm.md
+* doc\functions\Normal.md
+* doc\functions\NormalDistribution.md
+* doc\functions\Normalize.md
+* doc\functions\Not.md
+* doc\functions\Null.md
+* doc\functions\NullSpace.md
+* doc\functions\NumberQ.md
+* doc\functions\Numerator.md
+* doc\functions\NumericQ.md
+* doc\functions\OddQ.md
+* doc\functions\Off.md
+* doc\functions\On.md
+* doc\functions\OneIdentity.md
+* doc\functions\Operate.md
+* doc\functions\OptimizeExpression.md
+* doc\functions\Optional.md
+* doc\functions\Or.md
+* doc\functions\Order.md
+* doc\functions\OrderedQ.md
+* doc\functions\Ordering.md
+* doc\functions\Orderless.md
+* doc\functions\Orthogonalize.md
+* doc\functions\Outer.md
+* doc\functions\PDF.md
+* doc\functions\PadLeft.md
+* doc\functions\PadRight.md
+* doc\functions\Part.md
+* doc\functions\Partition.md
+* doc\functions\PartitionsP.md
+* doc\functions\PartitionsQ.md
+* doc\functions\PatternTest.md
+* doc\functions\PerfectNumber.md
+* doc\functions\PerfectNumberQ.md
+* doc\functions\Permutations.md
+* doc\functions\Pi.md
+* doc\functions\Piecewise.md
+* doc\functions\Plus.md
+* doc\functions\Pochhammer.md
+* doc\functions\PoissonDistribution.md
+* doc\functions\PolynomialExtendedGCD.md
+* doc\functions\PolynomialGCD.md
+* doc\functions\PolynomialLCM.md
+* doc\functions\PolynomialQ.md
+* doc\functions\PolynomialQuotient.md
+* doc\functions\PolynomialQuotientRemainder.md
+* doc\functions\PolynomialRemainder.md
+* doc\functions\Position.md
+* doc\functions\Positive.md
+* doc\functions\PossibleZeroQ.md
+* doc\functions\Power.md
+* doc\functions\PowerExpand.md
+* doc\functions\PowerMod.md
+* doc\functions\PreDecrement.md
+* doc\functions\PreIncrement.md
+* doc\functions\Prepend.md
+* doc\functions\PrependTo.md
+* doc\functions\Prime.md
+* doc\functions\PrimeOmega.md
+* doc\functions\PrimePi.md
+* doc\functions\PrimePowerQ.md
+* doc\functions\PrimeQ.md
+* doc\functions\PrimitiveRootList.md
+* doc\functions\Probability.md
+* doc\functions\Product.md
+* doc\functions\ProductLog.md
+* doc\functions\Projection.md
+* doc\functions\PseudoInverse.md
+* doc\functions\QRDecomposition.md
+* doc\functions\Quantile.md
+* doc\functions\Quantity.md
+* doc\functions\QuantityMagnitude.md
+* doc\functions\Quotient.md
+* doc\functions\QuotientRemainder.md
+* doc\functions\RandomChoice.md
+* doc\functions\RandomInteger.md
+* doc\functions\RandomReal.md
+* doc\functions\RandomSample.md
+* doc\functions\Range.md
+* doc\functions\Rational.md
+* doc\functions\Rationalize.md
+* doc\functions\Re.md
+* doc\functions\Real.md
+* doc\functions\RealNumberQ.md
+* doc\functions\Reals.md
+* doc\functions\Reap.md
+* doc\functions\Refine.md
+* doc\functions\Replace.md
+* doc\functions\ReplaceAll.md
+* doc\functions\ReplaceList.md
+* doc\functions\ReplacePart.md
+* doc\functions\Rescale.md
+* doc\functions\Rest.md
+* doc\functions\Resultant.md
+* doc\functions\Return.md
+* doc\functions\Reverse.md
+* doc\functions\Riffle.md
+* doc\functions\RogersTanimotoDissimilarity.md
+* doc\functions\Roots.md
+* doc\functions\RotateLeft.md
+* doc\functions\RotateRight.md
+* doc\functions\RotationMatrix.md
+* doc\functions\Round.md
+* doc\functions\RowReduce.md
+* doc\functions\Rule.md
+* doc\functions\RuleDelayed.md
+* doc\functions\RussellRaoDissimilarity.md
+* doc\functions\SameQ.md
+* doc\functions\SatisfiabilityCount.md
+* doc\functions\SatisfiabilityInstances.md
+* doc\functions\SatisfiableQ.md
+* doc\functions\Scan.md
+* doc\functions\Sec.md
+* doc\functions\Sech.md
+* doc\functions\Select.md
+* doc\functions\Series.md
+* doc\functions\SeriesCoefficient.md
+* doc\functions\SeriesData.md
+* doc\functions\Set.md
+* doc\functions\SetAttributes.md
+* doc\functions\SetDelayed.md
+* doc\functions\Sign.md
+* doc\functions\Simplify.md
+* doc\functions\Sin.md
+* doc\functions\Sinc.md
+* doc\functions\SingularValueDecomposition.md
+* doc\functions\Sinh.md
+* doc\functions\Skewness.md
+* doc\functions\Slot.md
+* doc\functions\SlotSequence.md
+* doc\functions\SokalSneathDissimilarity.md
+* doc\functions\Solve.md
+* doc\functions\Sort.md
+* doc\functions\Sow.md
+* doc\functions\Span.md
+* doc\functions\Split.md
+* doc\functions\SplitBy.md
+* doc\functions\Sqrt.md
+* doc\functions\SquareFreeQ.md
+* doc\functions\SquareMatrixQ.md
+* doc\functions\SquaredEuclideanDistance.md
+* doc\functions\StandardDeviation.md
+* doc\functions\StirlingS1.md
+* doc\functions\StirlingS2.md
+* doc\functions\StringQ.md
+* doc\functions\StruveH.md
+* doc\functions\StruveL.md
+* doc\functions\StudentTDistribution.md
+* doc\functions\Subdivide.md
+* doc\functions\Subfactorial.md
+* doc\functions\Subsets.md
+* doc\functions\Subtract.md
+* doc\functions\SubtractFrom.md
+* doc\functions\Sum.md
+* doc\functions\Surd.md
+* doc\functions\Switch.md
+* doc\functions\Symbol.md
+* doc\functions\SymbolName.md
+* doc\functions\SymbolQ.md
+* doc\functions\SymmetricMatrixQ.md
+* doc\functions\SyntaxQ.md
+* doc\functions\Table.md
+* doc\functions\Take.md
+* doc\functions\Tan.md
+* doc\functions\Tanh.md
+* doc\functions\TautologyQ.md
+* doc\functions\TeXForm.md
+* doc\functions\Thread.md
+* doc\functions\Through.md
+* doc\functions\TimeValue.md
+* doc\functions\Times.md
+* doc\functions\TimesBy.md
+* doc\functions\Timing.md
+* doc\functions\ToCharacterCode.md
+* doc\functions\ToExpression.md
+* doc\functions\ToPolarCoordinates.md
+* doc\functions\ToString.md
+* doc\functions\ToeplitzMatrix.md
+* doc\functions\Together.md
+* doc\functions\Total.md
+* doc\functions\Tr.md
+* doc\functions\Trace.md
+* doc\functions\Transpose.md
+* doc\functions\TrigExpand.md
+* doc\functions\TrigReduce.md
+* doc\functions\TrigToExp.md
+* doc\functions\True.md
+* doc\functions\TrueQ.md
+* doc\functions\Tuples.md
+* doc\functions\Unequal.md
+* doc\functions\UniformDistribution.md
+* doc\functions\Union.md
+* doc\functions\Unique.md
+* doc\functions\UnitConvert.md
+* doc\functions\UnitStep.md
+* doc\functions\UnitVector.md
+* doc\functions\Unitize.md
+* doc\functions\UnsameQ.md
+* doc\functions\Unset.md
+* doc\functions\UpperCaseQ.md
+* doc\functions\UpperTriangularize.md
+* doc\functions\ValueQ.md
+* doc\functions\VandermondeMatrix.md
+* doc\functions\Variables.md
+* doc\functions\Variance.md
+* doc\functions\VectorAngle.md
+* doc\functions\VectorQ.md
+* doc\functions\WeibullDistribution.md
+* doc\functions\Which.md
+* doc\functions\While.md
+* doc\functions\With.md
+* doc\functions\Xor.md
+* doc\functions\YuleDissimilarity.md
+* doc\functions\Zeta.md
+* doc\index.md
+* doc\linear-algebra.md
+* doc\lists.md
+* doc\logic.md
+* doc\number-theoretic-functions.md
+* doc\patterns-and-rules.md
+* doc\scoping.md
+* doc\strings.md
+* doc\symbols-and-assignments.md
+* doc\the-structure-of-things.md
+* lib\
+* lib\gson-2.8.5.jar
+* lib\guava-27.1-android.jar
+* lib\junit-4.6.jar
+* lint.xml
+* matheclipse-beakerx\
+* matheclipse-beakerx\.gitignore
+* matheclipse-beakerx\pom.xml
+* matheclipse-core\
+* matheclipse-core\.gitignore
+* matheclipse-core\.project
+* matheclipse-core\LICENSE.txt
+* matheclipse-core\pom.xml
+* matheclipse-packages\
+* matheclipse-packages\Polynomials.mep
+* pom.xml
+* rules\
+* rules\AbsRules.m
+* rules\ArcCosRules.m
+* rules\ArcCoshRules.m
+* rules\ArcCotRules.m
+* rules\ArcCothRules.m
+* rules\ArcCscRules.m
+* rules\ArcCschRules.m
+* rules\ArcSecRules.m
+* rules\ArcSechRules.m
+* rules\ArcSinRules.m
+* rules\ArcSinhRules.m
+* rules\ArcTanRules.m
+* rules\ArcTanhRules.m
+* rules\ConjugateRules.m
+* rules\CosRules.m
+* rules\CoshRules.m
+* rules\CotRules.m
+* rules\CothRules.m
+* rules\CscRules.m
+* rules\CschRules.m
+* rules\DRules.m
+* rules\DerivativeRules.m
+* rules\GammaRules.m
+* rules\Hypergeometric0F1Rules.m
+* rules\Hypergeometric2F1Rules.m
+* rules\InverseLaplaceTransformRules.m
+* rules\LaplaceTransformRules.m
+* rules\LegendrePRules.m
+* rules\LegendreQRules.m
+* rules\LimitRules.m
+* rules\LogRules.m
+* rules\PolyGammaRules.m
+* rules\PolyLogRules.m
+* rules\PowerRules.m
+* rules\ProductLogRules.m
+* rules\ProductRules.m
+* rules\QuantileRules.m
+* rules\SecRules.m
+* rules\SechRules.m
+* rules\SeriesCoefficientRules.m
+* rules\SinRules.m
+* rules\SincRules.m
+* rules\SinhRules.m
+* rules\StandardDeviationRules.m
+* rules\StieltjesGammaRules.m
+* rules\StruveHRules.m
+* rules\StruveLRules.m
+* rules\SumRules.m
+* rules\TanRules.m
+* rules\TanhRules.m
+* rules\readme.md
+* ruleset.xml
+* start-symja.jsh
+* symja-jshell.bat
+* toolslib\
+* toolslib\proguard.jar
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+gson-2.8.5.jar => com.google.code.gson:gson:2.8.5
+guava-27.1-android.jar => com.google.guava:guava:18.0
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.8.5.jar => version 2.8.5 in com.google.code.gson:gson:2.8.5
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* lib\antlr4-runtime-4.7.jar => symja\lib\antlr4-runtime-4.7.jar
+* lib\apfloat-1.8.3.jar => symja\lib\apfloat-1.8.3.jar
+* lib\beaker-kernel-base-1.3.0.jar => symja\lib\beaker-kernel-base-1.3.0.jar
+* lib\beakerx-1.3.0.jar => symja\lib\beakerx-1.3.0.jar
+* lib\commonmark-0.12.1.jar => symja\lib\commonmark-0.12.1.jar
+* lib\commons-csv-1.4.jar => symja\lib\commons-csv-1.4.jar
+* lib\failureaccess-1.0.1.jar => symja\lib\failureaccess-1.0.1.jar
+* lib\hipparchus-core-1.4.jar => symja\lib\hipparchus-core-1.4.jar
+* lib\hipparchus-fft-1.4.jar => symja\lib\hipparchus-fft-1.4.jar
+* lib\hipparchus-fitting-1.4.jar => symja\lib\hipparchus-fitting-1.4.jar
+* lib\hipparchus-ode-1.4.jar => symja\lib\hipparchus-ode-1.4.jar
+* lib\hipparchus-optim-1.4.jar => symja\lib\hipparchus-optim-1.4.jar
+* lib\hipparchus-stat-1.4.jar => symja\lib\hipparchus-stat-1.4.jar
+* lib\jackson-annotations-2.6.0.jar => symja\lib\jackson-annotations-2.6.0.jar
+* lib\jackson-core-2.6.5.jar => symja\lib\jackson-core-2.6.5.jar
+* lib\jackson-databind-2.6.5.jar => symja\lib\jackson-databind-2.6.5.jar
+* lib\jas-2.6.5961.jar => symja\lib\jas-2.6.5961.jar
+* lib\javalin-1.7.0.jar => symja\lib\javalin-1.7.0.jar
+* lib\jsr305.jar => symja\lib\jsr305.jar
+* lib\log4j-api-2.5.jar => symja\lib\log4j-api-2.5.jar
+* lib\log4j-core-2.5.jar => symja\lib\log4j-core-2.5.jar
+* lib\log4j-over-slf4j-1.7.25.jar => symja\lib\log4j-over-slf4j-1.7.25.jar
+* lib\logicng-1.5.0.jar => symja\lib\logicng-1.5.0.jar
+* lib\slf4j-android-1.7.25.jar => symja\lib\slf4j-android-1.7.25.jar
+* lib\slf4j-api-1.7.25.jar => symja\lib\slf4j-api-1.7.25.jar
+* matheclipse-beakerx\src\main\java\ => symja\src\main\java\
+* matheclipse-beakerx\src\test\resources\ => symja\src\main\java\
+* matheclipse-beakerx\src\test\resources\tableRowsTest.csv => symja\src\main\resources\tableRowsTest.csv
+* matheclipse-core\src\main\java\ => symja\src\main\java\
+* matheclipse-core\src\main\java\de\tilman_neumann\jml\factor\qaTests.txt => symja\src\main\resources\de\tilman_neumann\jml\factor\qaTests.txt
+* matheclipse-core\src\main\java\META-INF\apache20-license.txt => symja\src\main\resources\META-INF\apache20-license.txt
+* matheclipse-core\src\main\java\META-INF\MANIFEST.MF => symja\src\main\resources\META-INF\MANIFEST.MF
+* matheclipse-core\src\main\java\META-INF\matheclipse-license.txt => symja\src\main\resources\META-INF\matheclipse-license.txt
+* matheclipse-core\src\main\java\META-INF\services\javax.script.ScriptEngineFactory => symja\src\main\resources\META-INF\services\javax.script.ScriptEngineFactory
+* matheclipse-core\src\main\java\org\matheclipse\combinatoric\package.html => symja\src\main\resources\org\matheclipse\combinatoric\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\basic\package.html => symja\src\main\resources\org\matheclipse\core\basic\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\convert\package.html => symja\src\main\resources\org\matheclipse\core\convert\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\eval\exception\package.html => symja\src\main\resources\org\matheclipse\core\eval\exception\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\eval\interfaces\package.html => symja\src\main\resources\org\matheclipse\core\eval\interfaces\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\eval\package.html => symja\src\main\resources\org\matheclipse\core\eval\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\eval\util\package.html => symja\src\main\resources\org\matheclipse\core\eval\util\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\expression\package.html => symja\src\main\resources\org\matheclipse\core\expression\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\generic\package.html => symja\src\main\resources\org\matheclipse\core\generic\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\integrate\rubi\package.html => symja\src\main\resources\org\matheclipse\core\integrate\rubi\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\integrate\rubi\readme.md => symja\src\main\resources\org\matheclipse\core\integrate\rubi\readme.md
+* matheclipse-core\src\main\java\org\matheclipse\core\interfaces\package.html => symja\src\main\resources\org\matheclipse\core\interfaces\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\parser\package.html => symja\src\main\resources\org\matheclipse\core\parser\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\patternmatching\package.html => symja\src\main\resources\org\matheclipse\core\patternmatching\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\polynomials\package.html => symja\src\main\resources\org\matheclipse\core\polynomials\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\reflection\system\package.html => symja\src\main\resources\org\matheclipse\core\reflection\system\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\reflection\system\rules\package.html => symja\src\main\resources\org\matheclipse\core\reflection\system\rules\package.html
+* matheclipse-core\src\main\java\org\matheclipse\core\reflection\system\rules\readme.md => symja\src\main\resources\org\matheclipse\core\reflection\system\rules\readme.md
+* matheclipse-core\src\main\java\org\matheclipse\core\visit\package.html => symja\src\main\resources\org\matheclipse\core\visit\package.html
+* matheclipse-core\src\main\java\org\matheclipse\parser\client\ast\package.html => symja\src\main\resources\org\matheclipse\parser\client\ast\package.html
+* matheclipse-core\src\main\java\org\matheclipse\parser\client\eval\package.html => symja\src\main\resources\org\matheclipse\parser\client\eval\package.html
+* matheclipse-core\src\main\java\org\matheclipse\parser\client\math\package.html => symja\src\main\resources\org\matheclipse\parser\client\math\package.html
+* matheclipse-core\src\main\java\org\matheclipse\parser\client\operator\package.html => symja\src\main\resources\org\matheclipse\parser\client\operator\package.html
+* matheclipse-core\src\main\java\org\matheclipse\parser\client\package.html => symja\src\main\resources\org\matheclipse\parser\client\package.html
+* matheclipse-core\src\main\resources\ => symja\src\main\java\
+* matheclipse-core\src\main\resources\Abort.md => symja\src\main\resources\Abort.md
+* matheclipse-core\src\main\resources\Abs.md => symja\src\main\resources\Abs.md
+* matheclipse-core\src\main\resources\AbsArg.md => symja\src\main\resources\AbsArg.md
+* matheclipse-core\src\main\resources\Accumulate.md => symja\src\main\resources\Accumulate.md
+* matheclipse-core\src\main\resources\AddTo.md => symja\src\main\resources\AddTo.md
+* matheclipse-core\src\main\resources\All.md => symja\src\main\resources\All.md
+* matheclipse-core\src\main\resources\AllTrue.md => symja\src\main\resources\AllTrue.md
+* matheclipse-core\src\main\resources\Alternatives.md => symja\src\main\resources\Alternatives.md
+* matheclipse-core\src\main\resources\And.md => symja\src\main\resources\And.md
+* matheclipse-core\src\main\resources\AngleVector.md => symja\src\main\resources\AngleVector.md
+* matheclipse-core\src\main\resources\Annuity.md => symja\src\main\resources\Annuity.md
+* matheclipse-core\src\main\resources\AnnuityDue.md => symja\src\main\resources\AnnuityDue.md
+* matheclipse-core\src\main\resources\AntihermitianMatrixQ.md => symja\src\main\resources\AntihermitianMatrixQ.md
+* matheclipse-core\src\main\resources\AntisymmetricMatrixQ.md => symja\src\main\resources\AntisymmetricMatrixQ.md
+* matheclipse-core\src\main\resources\AnyTrue.md => symja\src\main\resources\AnyTrue.md
+* matheclipse-core\src\main\resources\Apart.md => symja\src\main\resources\Apart.md
+* matheclipse-core\src\main\resources\Append.md => symja\src\main\resources\Append.md
+* matheclipse-core\src\main\resources\AppendTo.md => symja\src\main\resources\AppendTo.md
+* matheclipse-core\src\main\resources\Apply.md => symja\src\main\resources\Apply.md
+* matheclipse-core\src\main\resources\ArcCos.md => symja\src\main\resources\ArcCos.md
+* matheclipse-core\src\main\resources\ArcCosh.md => symja\src\main\resources\ArcCosh.md
+* matheclipse-core\src\main\resources\ArcCot.md => symja\src\main\resources\ArcCot.md
+* matheclipse-core\src\main\resources\ArcCoth.md => symja\src\main\resources\ArcCoth.md
+* matheclipse-core\src\main\resources\ArcCsc.md => symja\src\main\resources\ArcCsc.md
+* matheclipse-core\src\main\resources\ArcCsch.md => symja\src\main\resources\ArcCsch.md
+* matheclipse-core\src\main\resources\ArcSec.md => symja\src\main\resources\ArcSec.md
+* matheclipse-core\src\main\resources\ArcSech.md => symja\src\main\resources\ArcSech.md
+* matheclipse-core\src\main\resources\ArcSin.md => symja\src\main\resources\ArcSin.md
+* matheclipse-core\src\main\resources\ArcSinh.md => symja\src\main\resources\ArcSinh.md
+* matheclipse-core\src\main\resources\ArcTan.md => symja\src\main\resources\ArcTan.md
+* matheclipse-core\src\main\resources\ArcTanh.md => symja\src\main\resources\ArcTanh.md
+* matheclipse-core\src\main\resources\Arg.md => symja\src\main\resources\Arg.md
+* matheclipse-core\src\main\resources\ArithmeticGeometricMean.md => symja\src\main\resources\ArithmeticGeometricMean.md
+* matheclipse-core\src\main\resources\Array.md => symja\src\main\resources\Array.md
+* matheclipse-core\src\main\resources\ArrayDepth.md => symja\src\main\resources\ArrayDepth.md
+* matheclipse-core\src\main\resources\ArrayPad.md => symja\src\main\resources\ArrayPad.md
+* matheclipse-core\src\main\resources\ArrayQ.md => symja\src\main\resources\ArrayQ.md
+* matheclipse-core\src\main\resources\ArrayReshape.md => symja\src\main\resources\ArrayReshape.md
+* matheclipse-core\src\main\resources\AtomQ.md => symja\src\main\resources\AtomQ.md
+* matheclipse-core\src\main\resources\Attributes.md => symja\src\main\resources\Attributes.md
+* matheclipse-core\src\main\resources\Begin.md => symja\src\main\resources\Begin.md
+* matheclipse-core\src\main\resources\BeginPackage.md => symja\src\main\resources\BeginPackage.md
+* matheclipse-core\src\main\resources\BellB.md => symja\src\main\resources\BellB.md
+* matheclipse-core\src\main\resources\BellY.md => symja\src\main\resources\BellY.md
+* matheclipse-core\src\main\resources\BernoulliB.md => symja\src\main\resources\BernoulliB.md
+* matheclipse-core\src\main\resources\BernoulliDistribution.md => symja\src\main\resources\BernoulliDistribution.md
+* matheclipse-core\src\main\resources\BesselJ.md => symja\src\main\resources\BesselJ.md
+* matheclipse-core\src\main\resources\Beta.md => symja\src\main\resources\Beta.md
+* matheclipse-core\src\main\resources\BinaryDeserialize.md => symja\src\main\resources\BinaryDeserialize.md
+* matheclipse-core\src\main\resources\BinarySerialize.md => symja\src\main\resources\BinarySerialize.md
+* matheclipse-core\src\main\resources\BinCounts.md => symja\src\main\resources\BinCounts.md
+* matheclipse-core\src\main\resources\Binomial.md => symja\src\main\resources\Binomial.md
+* matheclipse-core\src\main\resources\BinomialDistribution.md => symja\src\main\resources\BinomialDistribution.md
+* matheclipse-core\src\main\resources\BitLength.md => symja\src\main\resources\BitLength.md
+* matheclipse-core\src\main\resources\Block.md => symja\src\main\resources\Block.md
+* matheclipse-core\src\main\resources\Boole.md => symja\src\main\resources\Boole.md
+* matheclipse-core\src\main\resources\BooleanConvert.md => symja\src\main\resources\BooleanConvert.md
+* matheclipse-core\src\main\resources\BooleanMinimize.md => symja\src\main\resources\BooleanMinimize.md
+* matheclipse-core\src\main\resources\BooleanQ.md => symja\src\main\resources\BooleanQ.md
+* matheclipse-core\src\main\resources\Booleans.md => symja\src\main\resources\Booleans.md
+* matheclipse-core\src\main\resources\BooleanTable.md => symja\src\main\resources\BooleanTable.md
+* matheclipse-core\src\main\resources\BooleanVariables.md => symja\src\main\resources\BooleanVariables.md
+* matheclipse-core\src\main\resources\BrayCurtisDistance.md => symja\src\main\resources\BrayCurtisDistance.md
+* matheclipse-core\src\main\resources\Break.md => symja\src\main\resources\Break.md
+* matheclipse-core\src\main\resources\ByteArray.md => symja\src\main\resources\ByteArray.md
+* matheclipse-core\src\main\resources\ByteArrayQ.md => symja\src\main\resources\ByteArrayQ.md
+* matheclipse-core\src\main\resources\CanberraDistance.md => symja\src\main\resources\CanberraDistance.md
+* matheclipse-core\src\main\resources\Cancel.md => symja\src\main\resources\Cancel.md
+* matheclipse-core\src\main\resources\CarmichaelLambda.md => symja\src\main\resources\CarmichaelLambda.md
+* matheclipse-core\src\main\resources\CartesianProduct.md => symja\src\main\resources\CartesianProduct.md
+* matheclipse-core\src\main\resources\Cases.md => symja\src\main\resources\Cases.md
+* matheclipse-core\src\main\resources\Catalan.md => symja\src\main\resources\Catalan.md
+* matheclipse-core\src\main\resources\CatalanNumber.md => symja\src\main\resources\CatalanNumber.md
+* matheclipse-core\src\main\resources\Catenate.md => symja\src\main\resources\Catenate.md
+* matheclipse-core\src\main\resources\CDF.md => symja\src\main\resources\CDF.md
+* matheclipse-core\src\main\resources\Ceiling.md => symja\src\main\resources\Ceiling.md
+* matheclipse-core\src\main\resources\CentralMoment.md => symja\src\main\resources\CentralMoment.md
+* matheclipse-core\src\main\resources\CharacteristicPolynomial.md => symja\src\main\resources\CharacteristicPolynomial.md
+* matheclipse-core\src\main\resources\ChebyshevT.md => symja\src\main\resources\ChebyshevT.md
+* matheclipse-core\src\main\resources\ChebyshevU.md => symja\src\main\resources\ChebyshevU.md
+* matheclipse-core\src\main\resources\ChessboardDistance.md => symja\src\main\resources\ChessboardDistance.md
+* matheclipse-core\src\main\resources\ChineseRemainder.md => symja\src\main\resources\ChineseRemainder.md
+* matheclipse-core\src\main\resources\CholeskyDecomposition.md => symja\src\main\resources\CholeskyDecomposition.md
+* matheclipse-core\src\main\resources\Chop.md => symja\src\main\resources\Chop.md
+* matheclipse-core\src\main\resources\CirclePoints.md => symja\src\main\resources\CirclePoints.md
+* matheclipse-core\src\main\resources\Clear.md => symja\src\main\resources\Clear.md
+* matheclipse-core\src\main\resources\ClearAll.md => symja\src\main\resources\ClearAll.md
+* matheclipse-core\src\main\resources\ClearAttributes.md => symja\src\main\resources\ClearAttributes.md
+* matheclipse-core\src\main\resources\Clip.md => symja\src\main\resources\Clip.md
+* matheclipse-core\src\main\resources\Coefficient.md => symja\src\main\resources\Coefficient.md
+* matheclipse-core\src\main\resources\CoefficientList.md => symja\src\main\resources\CoefficientList.md
+* matheclipse-core\src\main\resources\Collect.md => symja\src\main\resources\Collect.md
+* matheclipse-core\src\main\resources\Complement.md => symja\src\main\resources\Complement.md
+* matheclipse-core\src\main\resources\Complex.md => symja\src\main\resources\Complex.md
+* matheclipse-core\src\main\resources\Complexes.md => symja\src\main\resources\Complexes.md
+* matheclipse-core\src\main\resources\ComplexExpand.md => symja\src\main\resources\ComplexExpand.md
+* matheclipse-core\src\main\resources\ComplexInfinity.md => symja\src\main\resources\ComplexInfinity.md
+* matheclipse-core\src\main\resources\ComposeList.md => symja\src\main\resources\ComposeList.md
+* matheclipse-core\src\main\resources\ComposeSeries.md => symja\src\main\resources\ComposeSeries.md
+* matheclipse-core\src\main\resources\Composition.md => symja\src\main\resources\Composition.md
+* matheclipse-core\src\main\resources\CompoundExpression.md => symja\src\main\resources\CompoundExpression.md
+* matheclipse-core\src\main\resources\Condition.md => symja\src\main\resources\Condition.md
+* matheclipse-core\src\main\resources\Conjugate.md => symja\src\main\resources\Conjugate.md
+* matheclipse-core\src\main\resources\ConjugateTranspose.md => symja\src\main\resources\ConjugateTranspose.md
+* matheclipse-core\src\main\resources\Constant.md => symja\src\main\resources\Constant.md
+* matheclipse-core\src\main\resources\ConstantArray.md => symja\src\main\resources\ConstantArray.md
+* matheclipse-core\src\main\resources\Context.md => symja\src\main\resources\Context.md
+* matheclipse-core\src\main\resources\Continue.md => symja\src\main\resources\Continue.md
+* matheclipse-core\src\main\resources\ContinuedFraction.md => symja\src\main\resources\ContinuedFraction.md
+* matheclipse-core\src\main\resources\Convergents.md => symja\src\main\resources\Convergents.md
+* matheclipse-core\src\main\resources\CoprimeQ.md => symja\src\main\resources\CoprimeQ.md
+* matheclipse-core\src\main\resources\Correlation.md => symja\src\main\resources\Correlation.md
+* matheclipse-core\src\main\resources\Cos.md => symja\src\main\resources\Cos.md
+* matheclipse-core\src\main\resources\Cosh.md => symja\src\main\resources\Cosh.md
+* matheclipse-core\src\main\resources\CosineDistance.md => symja\src\main\resources\CosineDistance.md
+* matheclipse-core\src\main\resources\Cot.md => symja\src\main\resources\Cot.md
+* matheclipse-core\src\main\resources\Coth.md => symja\src\main\resources\Coth.md
+* matheclipse-core\src\main\resources\Count.md => symja\src\main\resources\Count.md
+* matheclipse-core\src\main\resources\Covariance.md => symja\src\main\resources\Covariance.md
+* matheclipse-core\src\main\resources\Cross.md => symja\src\main\resources\Cross.md
+* matheclipse-core\src\main\resources\Csc.md => symja\src\main\resources\Csc.md
+* matheclipse-core\src\main\resources\Csch.md => symja\src\main\resources\Csch.md
+* matheclipse-core\src\main\resources\CubeRoot.md => symja\src\main\resources\CubeRoot.md
+* matheclipse-core\src\main\resources\Curl.md => symja\src\main\resources\Curl.md
+* matheclipse-core\src\main\resources\Cyclotomic.md => symja\src\main\resources\Cyclotomic.md
+* matheclipse-core\src\main\resources\D.md => symja\src\main\resources\D.md
+* matheclipse-core\src\main\resources\Decrement.md => symja\src\main\resources\Decrement.md
+* matheclipse-core\src\main\resources\Defer.md => symja\src\main\resources\Defer.md
+* matheclipse-core\src\main\resources\Definition.md => symja\src\main\resources\Definition.md
+* matheclipse-core\src\main\resources\Degree.md => symja\src\main\resources\Degree.md
+* matheclipse-core\src\main\resources\DeleteCases.md => symja\src\main\resources\DeleteCases.md
+* matheclipse-core\src\main\resources\DeleteDuplicates.md => symja\src\main\resources\DeleteDuplicates.md
+* matheclipse-core\src\main\resources\Denominator.md => symja\src\main\resources\Denominator.md
+* matheclipse-core\src\main\resources\Depth.md => symja\src\main\resources\Depth.md
+* matheclipse-core\src\main\resources\Derivative.md => symja\src\main\resources\Derivative.md
+* matheclipse-core\src\main\resources\DesignMatrix.md => symja\src\main\resources\DesignMatrix.md
+* matheclipse-core\src\main\resources\Det.md => symja\src\main\resources\Det.md
+* matheclipse-core\src\main\resources\Diagonal.md => symja\src\main\resources\Diagonal.md
+* matheclipse-core\src\main\resources\DiagonalMatrix.md => symja\src\main\resources\DiagonalMatrix.md
+* matheclipse-core\src\main\resources\DiceDissimilarity.md => symja\src\main\resources\DiceDissimilarity.md
+* matheclipse-core\src\main\resources\Diff.md => symja\src\main\resources\Diff.md
+* matheclipse-core\src\main\resources\DigitQ.md => symja\src\main\resources\DigitQ.md
+* matheclipse-core\src\main\resources\Dimensions.md => symja\src\main\resources\Dimensions.md
+* matheclipse-core\src\main\resources\DiracDelta.md => symja\src\main\resources\DiracDelta.md
+* matheclipse-core\src\main\resources\DirectedInfinity.md => symja\src\main\resources\DirectedInfinity.md
+* matheclipse-core\src\main\resources\DiscreteDelta.md => symja\src\main\resources\DiscreteDelta.md
+* matheclipse-core\src\main\resources\DiscreteUniformDistribution.md => symja\src\main\resources\DiscreteUniformDistribution.md
+* matheclipse-core\src\main\resources\Discriminant.md => symja\src\main\resources\Discriminant.md
+* matheclipse-core\src\main\resources\Distribute.md => symja\src\main\resources\Distribute.md
+* matheclipse-core\src\main\resources\Div.md => symja\src\main\resources\Div.md
+* matheclipse-core\src\main\resources\Divergence.md => symja\src\main\resources\Divergence.md
+* matheclipse-core\src\main\resources\Divide.md => symja\src\main\resources\Divide.md
+* matheclipse-core\src\main\resources\DivideBy.md => symja\src\main\resources\DivideBy.md
+* matheclipse-core\src\main\resources\Divisible.md => symja\src\main\resources\Divisible.md
+* matheclipse-core\src\main\resources\Divisors.md => symja\src\main\resources\Divisors.md
+* matheclipse-core\src\main\resources\DivisorSigma.md => symja\src\main\resources\DivisorSigma.md
+* matheclipse-core\src\main\resources\Do.md => symja\src\main\resources\Do.md
+* matheclipse-core\src\main\resources\Dot.md => symja\src\main\resources\Dot.md
+* matheclipse-core\src\main\resources\Drop.md => symja\src\main\resources\Drop.md
+* matheclipse-core\src\main\resources\DSolve.md => symja\src\main\resources\DSolve.md
+* matheclipse-core\src\main\resources\E.md => symja\src\main\resources\E.md
+* matheclipse-core\src\main\resources\EffectiveInterest.md => symja\src\main\resources\EffectiveInterest.md
+* matheclipse-core\src\main\resources\Eigenvalues.md => symja\src\main\resources\Eigenvalues.md
+* matheclipse-core\src\main\resources\Eigenvectors.md => symja\src\main\resources\Eigenvectors.md
+* matheclipse-core\src\main\resources\Element.md => symja\src\main\resources\Element.md
+* matheclipse-core\src\main\resources\ElementData.md => symja\src\main\resources\ElementData.md
+* matheclipse-core\src\main\resources\Eliminate.md => symja\src\main\resources\Eliminate.md
+* matheclipse-core\src\main\resources\EllipticE.md => symja\src\main\resources\EllipticE.md
+* matheclipse-core\src\main\resources\EllipticF.md => symja\src\main\resources\EllipticF.md
+* matheclipse-core\src\main\resources\EllipticK.md => symja\src\main\resources\EllipticK.md
+* matheclipse-core\src\main\resources\EllipticPi.md => symja\src\main\resources\EllipticPi.md
+* matheclipse-core\src\main\resources\End.md => symja\src\main\resources\End.md
+* matheclipse-core\src\main\resources\EndPackage.md => symja\src\main\resources\EndPackage.md
+* matheclipse-core\src\main\resources\Equal.md => symja\src\main\resources\Equal.md
+* matheclipse-core\src\main\resources\Equivalent.md => symja\src\main\resources\Equivalent.md
+* matheclipse-core\src\main\resources\Erf.md => symja\src\main\resources\Erf.md
+* matheclipse-core\src\main\resources\Erfc.md => symja\src\main\resources\Erfc.md
+* matheclipse-core\src\main\resources\ErlangDistribution.md => symja\src\main\resources\ErlangDistribution.md
+* matheclipse-core\src\main\resources\EuclideanDistance.md => symja\src\main\resources\EuclideanDistance.md
+* matheclipse-core\src\main\resources\EulerE.md => symja\src\main\resources\EulerE.md
+* matheclipse-core\src\main\resources\EulerPhi.md => symja\src\main\resources\EulerPhi.md
+* matheclipse-core\src\main\resources\EvalF.md => symja\src\main\resources\EvalF.md
+* matheclipse-core\src\main\resources\EvenQ.md => symja\src\main\resources\EvenQ.md
+* matheclipse-core\src\main\resources\ExactNumberQ.md => symja\src\main\resources\ExactNumberQ.md
+* matheclipse-core\src\main\resources\Except.md => symja\src\main\resources\Except.md
+* matheclipse-core\src\main\resources\Exp.md => symja\src\main\resources\Exp.md
+* matheclipse-core\src\main\resources\Expand.md => symja\src\main\resources\Expand.md
+* matheclipse-core\src\main\resources\ExpandAll.md => symja\src\main\resources\ExpandAll.md
+* matheclipse-core\src\main\resources\Expectation.md => symja\src\main\resources\Expectation.md
+* matheclipse-core\src\main\resources\Exponent.md => symja\src\main\resources\Exponent.md
+* matheclipse-core\src\main\resources\ExponentialDistribution.md => symja\src\main\resources\ExponentialDistribution.md
+* matheclipse-core\src\main\resources\Export.md => symja\src\main\resources\Export.md
+* matheclipse-core\src\main\resources\ExtendedGCD.md => symja\src\main\resources\ExtendedGCD.md
+* matheclipse-core\src\main\resources\Extract.md => symja\src\main\resources\Extract.md
+* matheclipse-core\src\main\resources\Factor.md => symja\src\main\resources\Factor.md
+* matheclipse-core\src\main\resources\Factorial.md => symja\src\main\resources\Factorial.md
+* matheclipse-core\src\main\resources\Factorial2.md => symja\src\main\resources\Factorial2.md
+* matheclipse-core\src\main\resources\FactorInteger.md => symja\src\main\resources\FactorInteger.md
+* matheclipse-core\src\main\resources\FactorSquareFree.md => symja\src\main\resources\FactorSquareFree.md
+* matheclipse-core\src\main\resources\FactorSquareFreeList.md => symja\src\main\resources\FactorSquareFreeList.md
+* matheclipse-core\src\main\resources\FactorTerms.md => symja\src\main\resources\FactorTerms.md
+* matheclipse-core\src\main\resources\False.md => symja\src\main\resources\False.md
+* matheclipse-core\src\main\resources\Fibonacci.md => symja\src\main\resources\Fibonacci.md
+* matheclipse-core\src\main\resources\FindFit.md => symja\src\main\resources\FindFit.md
+* matheclipse-core\src\main\resources\FindInstance.md => symja\src\main\resources\FindInstance.md
+* matheclipse-core\src\main\resources\FindRoot.md => symja\src\main\resources\FindRoot.md
+* matheclipse-core\src\main\resources\First.md => symja\src\main\resources\First.md
+* matheclipse-core\src\main\resources\Fit.md => symja\src\main\resources\Fit.md
+* matheclipse-core\src\main\resources\FiveNum.md => symja\src\main\resources\FiveNum.md
+* matheclipse-core\src\main\resources\FixedPoint.md => symja\src\main\resources\FixedPoint.md
+* matheclipse-core\src\main\resources\FixedPointList.md => symja\src\main\resources\FixedPointList.md
+* matheclipse-core\src\main\resources\Flat.md => symja\src\main\resources\Flat.md
+* matheclipse-core\src\main\resources\Flatten.md => symja\src\main\resources\Flatten.md
+* matheclipse-core\src\main\resources\FlattenAt.md => symja\src\main\resources\FlattenAt.md
+* matheclipse-core\src\main\resources\Floor.md => symja\src\main\resources\Floor.md
+* matheclipse-core\src\main\resources\Fold.md => symja\src\main\resources\Fold.md
+* matheclipse-core\src\main\resources\FoldList.md => symja\src\main\resources\FoldList.md
+* matheclipse-core\src\main\resources\For.md => symja\src\main\resources\For.md
+* matheclipse-core\src\main\resources\FourierMatrix.md => symja\src\main\resources\FourierMatrix.md
+* matheclipse-core\src\main\resources\FractionalPart.md => symja\src\main\resources\FractionalPart.md
+* matheclipse-core\src\main\resources\FrechetDistribution.md => symja\src\main\resources\FrechetDistribution.md
+* matheclipse-core\src\main\resources\FreeQ.md => symja\src\main\resources\FreeQ.md
+* matheclipse-core\src\main\resources\FrobeniusNumber.md => symja\src\main\resources\FrobeniusNumber.md
+* matheclipse-core\src\main\resources\FrobeniusSolve.md => symja\src\main\resources\FrobeniusSolve.md
+* matheclipse-core\src\main\resources\FromContinuedFraction.md => symja\src\main\resources\FromContinuedFraction.md
+* matheclipse-core\src\main\resources\FromDigits.md => symja\src\main\resources\FromDigits.md
+* matheclipse-core\src\main\resources\FromPolarCoordinates.md => symja\src\main\resources\FromPolarCoordinates.md
+* matheclipse-core\src\main\resources\FullForm.md => symja\src\main\resources\FullForm.md
+* matheclipse-core\src\main\resources\FullSimplify.md => symja\src\main\resources\FullSimplify.md
+* matheclipse-core\src\main\resources\FunctionExpand.md => symja\src\main\resources\FunctionExpand.md
+* matheclipse-core\src\main\resources\Gamma.md => symja\src\main\resources\Gamma.md
+* matheclipse-core\src\main\resources\GammaDistribution.md => symja\src\main\resources\GammaDistribution.md
+* matheclipse-core\src\main\resources\GCD.md => symja\src\main\resources\GCD.md
+* matheclipse-core\src\main\resources\GeometricDistribution.md => symja\src\main\resources\GeometricDistribution.md
+* matheclipse-core\src\main\resources\Get.md => symja\src\main\resources\Get.md
+* matheclipse-core\src\main\resources\Glaisher.md => symja\src\main\resources\Glaisher.md
+* matheclipse-core\src\main\resources\GoldenRatio.md => symja\src\main\resources\GoldenRatio.md
+* matheclipse-core\src\main\resources\Grad.md => symja\src\main\resources\Grad.md
+* matheclipse-core\src\main\resources\Greater.md => symja\src\main\resources\Greater.md
+* matheclipse-core\src\main\resources\GreaterEqual.md => symja\src\main\resources\GreaterEqual.md
+* matheclipse-core\src\main\resources\GroebnerBasis.md => symja\src\main\resources\GroebnerBasis.md
+* matheclipse-core\src\main\resources\GumbelDistribution.md => symja\src\main\resources\GumbelDistribution.md
+* matheclipse-core\src\main\resources\HarmonicNumber.md => symja\src\main\resources\HarmonicNumber.md
+* matheclipse-core\src\main\resources\Haversine.md => symja\src\main\resources\Haversine.md
+* matheclipse-core\src\main\resources\Head.md => symja\src\main\resources\Head.md
+* matheclipse-core\src\main\resources\HermiteH.md => symja\src\main\resources\HermiteH.md
+* matheclipse-core\src\main\resources\HermitianMatrixQ.md => symja\src\main\resources\HermitianMatrixQ.md
+* matheclipse-core\src\main\resources\HilbertMatrix.md => symja\src\main\resources\HilbertMatrix.md
+* matheclipse-core\src\main\resources\Hold.md => symja\src\main\resources\Hold.md
+* matheclipse-core\src\main\resources\HoldAll.md => symja\src\main\resources\HoldAll.md
+* matheclipse-core\src\main\resources\HoldFirst.md => symja\src\main\resources\HoldFirst.md
+* matheclipse-core\src\main\resources\HoldForm.md => symja\src\main\resources\HoldForm.md
+* matheclipse-core\src\main\resources\HoldPattern.md => symja\src\main\resources\HoldPattern.md
+* matheclipse-core\src\main\resources\HoldRest.md => symja\src\main\resources\HoldRest.md
+* matheclipse-core\src\main\resources\HornerForm.md => symja\src\main\resources\HornerForm.md
+* matheclipse-core\src\main\resources\Hypergeometric0F1.md => symja\src\main\resources\Hypergeometric0F1.md
+* matheclipse-core\src\main\resources\Hypergeometric1F1.md => symja\src\main\resources\Hypergeometric1F1.md
+* matheclipse-core\src\main\resources\Hypergeometric2F1.md => symja\src\main\resources\Hypergeometric2F1.md
+* matheclipse-core\src\main\resources\HypergeometricDistribution.md => symja\src\main\resources\HypergeometricDistribution.md
+* matheclipse-core\src\main\resources\I.md => symja\src\main\resources\I.md
+* matheclipse-core\src\main\resources\Identity.md => symja\src\main\resources\Identity.md
+* matheclipse-core\src\main\resources\IdentityMatrix.md => symja\src\main\resources\IdentityMatrix.md
+* matheclipse-core\src\main\resources\If.md => symja\src\main\resources\If.md
+* matheclipse-core\src\main\resources\Im.md => symja\src\main\resources\Im.md
+* matheclipse-core\src\main\resources\Implies.md => symja\src\main\resources\Implies.md
+* matheclipse-core\src\main\resources\Import.md => symja\src\main\resources\Import.md
+* matheclipse-core\src\main\resources\Increment.md => symja\src\main\resources\Increment.md
+* matheclipse-core\src\main\resources\Indeterminate.md => symja\src\main\resources\Indeterminate.md
+* matheclipse-core\src\main\resources\InexactNumberQ.md => symja\src\main\resources\InexactNumberQ.md
+* matheclipse-core\src\main\resources\Infinity.md => symja\src\main\resources\Infinity.md
+* matheclipse-core\src\main\resources\Inner.md => symja\src\main\resources\Inner.md
+* matheclipse-core\src\main\resources\Int.md => symja\src\main\resources\Int.md
+* matheclipse-core\src\main\resources\Integer.md => symja\src\main\resources\Integer.md
+* matheclipse-core\src\main\resources\IntegerDigits.md => symja\src\main\resources\IntegerDigits.md
+* matheclipse-core\src\main\resources\IntegerExponent.md => symja\src\main\resources\IntegerExponent.md
+* matheclipse-core\src\main\resources\IntegerLength.md => symja\src\main\resources\IntegerLength.md
+* matheclipse-core\src\main\resources\IntegerPart.md => symja\src\main\resources\IntegerPart.md
+* matheclipse-core\src\main\resources\IntegerPartitions.md => symja\src\main\resources\IntegerPartitions.md
+* matheclipse-core\src\main\resources\IntegerQ.md => symja\src\main\resources\IntegerQ.md
+* matheclipse-core\src\main\resources\Integers.md => symja\src\main\resources\Integers.md
+* matheclipse-core\src\main\resources\Integrate.md => symja\src\main\resources\Integrate.md
+* matheclipse-core\src\main\resources\InterpolatingFunction.md => symja\src\main\resources\InterpolatingFunction.md
+* matheclipse-core\src\main\resources\InterpolatingPolynomial.md => symja\src\main\resources\InterpolatingPolynomial.md
+* matheclipse-core\src\main\resources\Intersection.md => symja\src\main\resources\Intersection.md
+* matheclipse-core\src\main\resources\Inverse.md => symja\src\main\resources\Inverse.md
+* matheclipse-core\src\main\resources\InverseErf.md => symja\src\main\resources\InverseErf.md
+* matheclipse-core\src\main\resources\InverseErfc.md => symja\src\main\resources\InverseErfc.md
+* matheclipse-core\src\main\resources\InverseFunction.md => symja\src\main\resources\InverseFunction.md
+* matheclipse-core\src\main\resources\InverseHaversine.md => symja\src\main\resources\InverseHaversine.md
+* matheclipse-core\src\main\resources\InverseLaplaceTransform.md => symja\src\main\resources\InverseLaplaceTransform.md
+* matheclipse-core\src\main\resources\InverseSeries.md => symja\src\main\resources\InverseSeries.md
+* matheclipse-core\src\main\resources\JaccardDissimilarity.md => symja\src\main\resources\JaccardDissimilarity.md
+* matheclipse-core\src\main\resources\JacobiMatrix.md => symja\src\main\resources\JacobiMatrix.md
+* matheclipse-core\src\main\resources\JacobiSymbol.md => symja\src\main\resources\JacobiSymbol.md
+* matheclipse-core\src\main\resources\JavaForm.md => symja\src\main\resources\JavaForm.md
+* matheclipse-core\src\main\resources\Join.md => symja\src\main\resources\Join.md
+* matheclipse-core\src\main\resources\Khinchin.md => symja\src\main\resources\Khinchin.md
+* matheclipse-core\src\main\resources\KolmogorovSmirnovTest.md => symja\src\main\resources\KolmogorovSmirnovTest.md
+* matheclipse-core\src\main\resources\KroneckerDelta.md => symja\src\main\resources\KroneckerDelta.md
+* matheclipse-core\src\main\resources\Kurtosis.md => symja\src\main\resources\Kurtosis.md
+* matheclipse-core\src\main\resources\LaguerreL.md => symja\src\main\resources\LaguerreL.md
+* matheclipse-core\src\main\resources\LaplaceTransform.md => symja\src\main\resources\LaplaceTransform.md
+* matheclipse-core\src\main\resources\Last.md => symja\src\main\resources\Last.md
+* matheclipse-core\src\main\resources\LCM.md => symja\src\main\resources\LCM.md
+* matheclipse-core\src\main\resources\LeastSquares.md => symja\src\main\resources\LeastSquares.md
+* matheclipse-core\src\main\resources\LegendreP.md => symja\src\main\resources\LegendreP.md
+* matheclipse-core\src\main\resources\LegendreQ.md => symja\src\main\resources\LegendreQ.md
+* matheclipse-core\src\main\resources\Length.md => symja\src\main\resources\Length.md
+* matheclipse-core\src\main\resources\Less.md => symja\src\main\resources\Less.md
+* matheclipse-core\src\main\resources\LessEqual.md => symja\src\main\resources\LessEqual.md
+* matheclipse-core\src\main\resources\LetterQ.md => symja\src\main\resources\LetterQ.md
+* matheclipse-core\src\main\resources\Level.md => symja\src\main\resources\Level.md
+* matheclipse-core\src\main\resources\LevelQ.md => symja\src\main\resources\LevelQ.md
+* matheclipse-core\src\main\resources\Limit.md => symja\src\main\resources\Limit.md
+* matheclipse-core\src\main\resources\LinearProgramming.md => symja\src\main\resources\LinearProgramming.md
+* matheclipse-core\src\main\resources\LinearRecurrence.md => symja\src\main\resources\LinearRecurrence.md
+* matheclipse-core\src\main\resources\LinearSolve.md => symja\src\main\resources\LinearSolve.md
+* matheclipse-core\src\main\resources\List.md => symja\src\main\resources\List.md
+* matheclipse-core\src\main\resources\Listable.md => symja\src\main\resources\Listable.md
+* matheclipse-core\src\main\resources\ListConvolve.md => symja\src\main\resources\ListConvolve.md
+* matheclipse-core\src\main\resources\ListCorrelate.md => symja\src\main\resources\ListCorrelate.md
+* matheclipse-core\src\main\resources\ListQ.md => symja\src\main\resources\ListQ.md
+* matheclipse-core\src\main\resources\Ln.md => symja\src\main\resources\Ln.md
+* matheclipse-core\src\main\resources\Log.md => symja\src\main\resources\Log.md
+* matheclipse-core\src\main\resources\Log10.md => symja\src\main\resources\Log10.md
+* matheclipse-core\src\main\resources\Log2.md => symja\src\main\resources\Log2.md
+* matheclipse-core\src\main\resources\LogisticSigmoid.md => symja\src\main\resources\LogisticSigmoid.md
+* matheclipse-core\src\main\resources\LogNormalDistribution.md => symja\src\main\resources\LogNormalDistribution.md
+* matheclipse-core\src\main\resources\LowerTriangularize.md => symja\src\main\resources\LowerTriangularize.md
+* matheclipse-core\src\main\resources\LucasL.md => symja\src\main\resources\LucasL.md
+* matheclipse-core\src\main\resources\LUDecomposition.md => symja\src\main\resources\LUDecomposition.md
+* matheclipse-core\src\main\resources\MachineNumberQ.md => symja\src\main\resources\MachineNumberQ.md
+* matheclipse-core\src\main\resources\MangoldtLambda.md => symja\src\main\resources\MangoldtLambda.md
+* matheclipse-core\src\main\resources\ManhattanDistance.md => symja\src\main\resources\ManhattanDistance.md
+* matheclipse-core\src\main\resources\Map.md => symja\src\main\resources\Map.md
+* matheclipse-core\src\main\resources\MapIndexed.md => symja\src\main\resources\MapIndexed.md
+* matheclipse-core\src\main\resources\MapThread.md => symja\src\main\resources\MapThread.md
+* matheclipse-core\src\main\resources\MatchingDissimilarity.md => symja\src\main\resources\MatchingDissimilarity.md
+* matheclipse-core\src\main\resources\MatchQ.md => symja\src\main\resources\MatchQ.md
+* matheclipse-core\src\main\resources\MathMLForm.md => symja\src\main\resources\MathMLForm.md
+* matheclipse-core\src\main\resources\MatrixMinimalPolynomial.md => symja\src\main\resources\MatrixMinimalPolynomial.md
+* matheclipse-core\src\main\resources\MatrixPower.md => symja\src\main\resources\MatrixPower.md
+* matheclipse-core\src\main\resources\MatrixQ.md => symja\src\main\resources\MatrixQ.md
+* matheclipse-core\src\main\resources\MatrixRank.md => symja\src\main\resources\MatrixRank.md
+* matheclipse-core\src\main\resources\Max.md => symja\src\main\resources\Max.md
+* matheclipse-core\src\main\resources\Maximize.md => symja\src\main\resources\Maximize.md
+* matheclipse-core\src\main\resources\Mean.md => symja\src\main\resources\Mean.md
+* matheclipse-core\src\main\resources\Median.md => symja\src\main\resources\Median.md
+* matheclipse-core\src\main\resources\MemberQ.md => symja\src\main\resources\MemberQ.md
+* matheclipse-core\src\main\resources\MersennePrimeExponent.md => symja\src\main\resources\MersennePrimeExponent.md
+* matheclipse-core\src\main\resources\MersennePrimeExponentQ.md => symja\src\main\resources\MersennePrimeExponentQ.md
+* matheclipse-core\src\main\resources\Message.md => symja\src\main\resources\Message.md
+* matheclipse-core\src\main\resources\MessageName.md => symja\src\main\resources\MessageName.md
+* matheclipse-core\src\main\resources\Min.md => symja\src\main\resources\Min.md
+* matheclipse-core\src\main\resources\Minimize.md => symja\src\main\resources\Minimize.md
+* matheclipse-core\src\main\resources\Minus.md => symja\src\main\resources\Minus.md
+* matheclipse-core\src\main\resources\MissingQ.md => symja\src\main\resources\MissingQ.md
+* matheclipse-core\src\main\resources\Mod.md => symja\src\main\resources\Mod.md
+* matheclipse-core\src\main\resources\Module.md => symja\src\main\resources\Module.md
+* matheclipse-core\src\main\resources\MoebiusMu.md => symja\src\main\resources\MoebiusMu.md
+* matheclipse-core\src\main\resources\MonomialList.md => symja\src\main\resources\MonomialList.md
+* matheclipse-core\src\main\resources\Most.md => symja\src\main\resources\Most.md
+* matheclipse-core\src\main\resources\Multinomial.md => symja\src\main\resources\Multinomial.md
+* matheclipse-core\src\main\resources\MultiplicativeOrder.md => symja\src\main\resources\MultiplicativeOrder.md
+* matheclipse-core\src\main\resources\N.md => symja\src\main\resources\N.md
+* matheclipse-core\src\main\resources\NakagamiDistribution.md => symja\src\main\resources\NakagamiDistribution.md
+* matheclipse-core\src\main\resources\Nand.md => symja\src\main\resources\Nand.md
+* matheclipse-core\src\main\resources\Negative.md => symja\src\main\resources\Negative.md
+* matheclipse-core\src\main\resources\Nest.md => symja\src\main\resources\Nest.md
+* matheclipse-core\src\main\resources\NestList.md => symja\src\main\resources\NestList.md
+* matheclipse-core\src\main\resources\NestWhile.md => symja\src\main\resources\NestWhile.md
+* matheclipse-core\src\main\resources\NestWhileList.md => symja\src\main\resources\NestWhileList.md
+* matheclipse-core\src\main\resources\NextPrime.md => symja\src\main\resources\NextPrime.md
+* matheclipse-core\src\main\resources\NHoldAll.md => symja\src\main\resources\NHoldAll.md
+* matheclipse-core\src\main\resources\NHoldFirst.md => symja\src\main\resources\NHoldFirst.md
+* matheclipse-core\src\main\resources\NHoldRest.md => symja\src\main\resources\NHoldRest.md
+* matheclipse-core\src\main\resources\NIntegrate.md => symja\src\main\resources\NIntegrate.md
+* matheclipse-core\src\main\resources\NMaximize.md => symja\src\main\resources\NMaximize.md
+* matheclipse-core\src\main\resources\NMinimize.md => symja\src\main\resources\NMinimize.md
+* matheclipse-core\src\main\resources\None.md => symja\src\main\resources\None.md
+* matheclipse-core\src\main\resources\NoneTrue.md => symja\src\main\resources\NoneTrue.md
+* matheclipse-core\src\main\resources\NonNegative.md => symja\src\main\resources\NonNegative.md
+* matheclipse-core\src\main\resources\NonPositive.md => symja\src\main\resources\NonPositive.md
+* matheclipse-core\src\main\resources\Nor.md => symja\src\main\resources\Nor.md
+* matheclipse-core\src\main\resources\Norm.md => symja\src\main\resources\Norm.md
+* matheclipse-core\src\main\resources\Normal.md => symja\src\main\resources\Normal.md
+* matheclipse-core\src\main\resources\NormalDistribution.md => symja\src\main\resources\NormalDistribution.md
+* matheclipse-core\src\main\resources\Normalize.md => symja\src\main\resources\Normalize.md
+* matheclipse-core\src\main\resources\Not.md => symja\src\main\resources\Not.md
+* matheclipse-core\src\main\resources\NRoots.md => symja\src\main\resources\NRoots.md
+* matheclipse-core\src\main\resources\NSolve.md => symja\src\main\resources\NSolve.md
+* matheclipse-core\src\main\resources\Null.md => symja\src\main\resources\Null.md
+* matheclipse-core\src\main\resources\NullSpace.md => symja\src\main\resources\NullSpace.md
+* matheclipse-core\src\main\resources\NumberQ.md => symja\src\main\resources\NumberQ.md
+* matheclipse-core\src\main\resources\Numerator.md => symja\src\main\resources\Numerator.md
+* matheclipse-core\src\main\resources\NumericQ.md => symja\src\main\resources\NumericQ.md
+* matheclipse-core\src\main\resources\OddQ.md => symja\src\main\resources\OddQ.md
+* matheclipse-core\src\main\resources\Off.md => symja\src\main\resources\Off.md
+* matheclipse-core\src\main\resources\On.md => symja\src\main\resources\On.md
+* matheclipse-core\src\main\resources\OneIdentity.md => symja\src\main\resources\OneIdentity.md
+* matheclipse-core\src\main\resources\Operate.md => symja\src\main\resources\Operate.md
+* matheclipse-core\src\main\resources\OptimizeExpression.md => symja\src\main\resources\OptimizeExpression.md
+* matheclipse-core\src\main\resources\Optional.md => symja\src\main\resources\Optional.md
+* matheclipse-core\src\main\resources\Or.md => symja\src\main\resources\Or.md
+* matheclipse-core\src\main\resources\Order.md => symja\src\main\resources\Order.md
+* matheclipse-core\src\main\resources\OrderedQ.md => symja\src\main\resources\OrderedQ.md
+* matheclipse-core\src\main\resources\Ordering.md => symja\src\main\resources\Ordering.md
+* matheclipse-core\src\main\resources\Orderless.md => symja\src\main\resources\Orderless.md
+* matheclipse-core\src\main\resources\Orthogonalize.md => symja\src\main\resources\Orthogonalize.md
+* matheclipse-core\src\main\resources\Outer.md => symja\src\main\resources\Outer.md
+* matheclipse-core\src\main\resources\PadLeft.md => symja\src\main\resources\PadLeft.md
+* matheclipse-core\src\main\resources\PadRight.md => symja\src\main\resources\PadRight.md
+* matheclipse-core\src\main\resources\Part.md => symja\src\main\resources\Part.md
+* matheclipse-core\src\main\resources\Partition.md => symja\src\main\resources\Partition.md
+* matheclipse-core\src\main\resources\PartitionsP.md => symja\src\main\resources\PartitionsP.md
+* matheclipse-core\src\main\resources\PartitionsQ.md => symja\src\main\resources\PartitionsQ.md
+* matheclipse-core\src\main\resources\PatternTest.md => symja\src\main\resources\PatternTest.md
+* matheclipse-core\src\main\resources\PDF.md => symja\src\main\resources\PDF.md
+* matheclipse-core\src\main\resources\PerfectNumber.md => symja\src\main\resources\PerfectNumber.md
+* matheclipse-core\src\main\resources\PerfectNumberQ.md => symja\src\main\resources\PerfectNumberQ.md
+* matheclipse-core\src\main\resources\Permutations.md => symja\src\main\resources\Permutations.md
+* matheclipse-core\src\main\resources\Pi.md => symja\src\main\resources\Pi.md
+* matheclipse-core\src\main\resources\Piecewise.md => symja\src\main\resources\Piecewise.md
+* matheclipse-core\src\main\resources\Plus.md => symja\src\main\resources\Plus.md
+* matheclipse-core\src\main\resources\Pochhammer.md => symja\src\main\resources\Pochhammer.md
+* matheclipse-core\src\main\resources\PoissonDistribution.md => symja\src\main\resources\PoissonDistribution.md
+* matheclipse-core\src\main\resources\PolynomialExtendedGCD.md => symja\src\main\resources\PolynomialExtendedGCD.md
+* matheclipse-core\src\main\resources\PolynomialGCD.md => symja\src\main\resources\PolynomialGCD.md
+* matheclipse-core\src\main\resources\PolynomialLCM.md => symja\src\main\resources\PolynomialLCM.md
+* matheclipse-core\src\main\resources\PolynomialQ.md => symja\src\main\resources\PolynomialQ.md
+* matheclipse-core\src\main\resources\PolynomialQuotient.md => symja\src\main\resources\PolynomialQuotient.md
+* matheclipse-core\src\main\resources\PolynomialQuotientRemainder.md => symja\src\main\resources\PolynomialQuotientRemainder.md
+* matheclipse-core\src\main\resources\PolynomialRemainder.md => symja\src\main\resources\PolynomialRemainder.md
+* matheclipse-core\src\main\resources\Position.md => symja\src\main\resources\Position.md
+* matheclipse-core\src\main\resources\Positive.md => symja\src\main\resources\Positive.md
+* matheclipse-core\src\main\resources\PossibleZeroQ.md => symja\src\main\resources\PossibleZeroQ.md
+* matheclipse-core\src\main\resources\Power.md => symja\src\main\resources\Power.md
+* matheclipse-core\src\main\resources\PowerExpand.md => symja\src\main\resources\PowerExpand.md
+* matheclipse-core\src\main\resources\PowerMod.md => symja\src\main\resources\PowerMod.md
+* matheclipse-core\src\main\resources\PreDecrement.md => symja\src\main\resources\PreDecrement.md
+* matheclipse-core\src\main\resources\PreIncrement.md => symja\src\main\resources\PreIncrement.md
+* matheclipse-core\src\main\resources\Prepend.md => symja\src\main\resources\Prepend.md
+* matheclipse-core\src\main\resources\PrependTo.md => symja\src\main\resources\PrependTo.md
+* matheclipse-core\src\main\resources\Prime.md => symja\src\main\resources\Prime.md
+* matheclipse-core\src\main\resources\PrimeOmega.md => symja\src\main\resources\PrimeOmega.md
+* matheclipse-core\src\main\resources\PrimePi.md => symja\src\main\resources\PrimePi.md
+* matheclipse-core\src\main\resources\PrimePowerQ.md => symja\src\main\resources\PrimePowerQ.md
+* matheclipse-core\src\main\resources\PrimeQ.md => symja\src\main\resources\PrimeQ.md
+* matheclipse-core\src\main\resources\PrimitiveRootList.md => symja\src\main\resources\PrimitiveRootList.md
+* matheclipse-core\src\main\resources\Probability.md => symja\src\main\resources\Probability.md
+* matheclipse-core\src\main\resources\Product.md => symja\src\main\resources\Product.md
+* matheclipse-core\src\main\resources\ProductLog.md => symja\src\main\resources\ProductLog.md
+* matheclipse-core\src\main\resources\Projection.md => symja\src\main\resources\Projection.md
+* matheclipse-core\src\main\resources\PseudoInverse.md => symja\src\main\resources\PseudoInverse.md
+* matheclipse-core\src\main\resources\QRDecomposition.md => symja\src\main\resources\QRDecomposition.md
+* matheclipse-core\src\main\resources\Quantile.md => symja\src\main\resources\Quantile.md
+* matheclipse-core\src\main\resources\Quantity.md => symja\src\main\resources\Quantity.md
+* matheclipse-core\src\main\resources\QuantityMagnitude.md => symja\src\main\resources\QuantityMagnitude.md
+* matheclipse-core\src\main\resources\Quotient.md => symja\src\main\resources\Quotient.md
+* matheclipse-core\src\main\resources\QuotientRemainder.md => symja\src\main\resources\QuotientRemainder.md
+* matheclipse-core\src\main\resources\RandomChoice.md => symja\src\main\resources\RandomChoice.md
+* matheclipse-core\src\main\resources\RandomInteger.md => symja\src\main\resources\RandomInteger.md
+* matheclipse-core\src\main\resources\RandomReal.md => symja\src\main\resources\RandomReal.md
+* matheclipse-core\src\main\resources\RandomSample.md => symja\src\main\resources\RandomSample.md
+* matheclipse-core\src\main\resources\Range.md => symja\src\main\resources\Range.md
+* matheclipse-core\src\main\resources\Rational.md => symja\src\main\resources\Rational.md
+* matheclipse-core\src\main\resources\Rationalize.md => symja\src\main\resources\Rationalize.md
+* matheclipse-core\src\main\resources\Re.md => symja\src\main\resources\Re.md
+* matheclipse-core\src\main\resources\Real.md => symja\src\main\resources\Real.md
+* matheclipse-core\src\main\resources\RealNumberQ.md => symja\src\main\resources\RealNumberQ.md
+* matheclipse-core\src\main\resources\Reals.md => symja\src\main\resources\Reals.md
+* matheclipse-core\src\main\resources\Reap.md => symja\src\main\resources\Reap.md
+* matheclipse-core\src\main\resources\Refine.md => symja\src\main\resources\Refine.md
+* matheclipse-core\src\main\resources\Replace.md => symja\src\main\resources\Replace.md
+* matheclipse-core\src\main\resources\ReplaceAll.md => symja\src\main\resources\ReplaceAll.md
+* matheclipse-core\src\main\resources\ReplaceList.md => symja\src\main\resources\ReplaceList.md
+* matheclipse-core\src\main\resources\ReplacePart.md => symja\src\main\resources\ReplacePart.md
+* matheclipse-core\src\main\resources\Rescale.md => symja\src\main\resources\Rescale.md
+* matheclipse-core\src\main\resources\Rest.md => symja\src\main\resources\Rest.md
+* matheclipse-core\src\main\resources\Resultant.md => symja\src\main\resources\Resultant.md
+* matheclipse-core\src\main\resources\Return.md => symja\src\main\resources\Return.md
+* matheclipse-core\src\main\resources\Reverse.md => symja\src\main\resources\Reverse.md
+* matheclipse-core\src\main\resources\Riffle.md => symja\src\main\resources\Riffle.md
+* matheclipse-core\src\main\resources\RogersTanimotoDissimilarity.md => symja\src\main\resources\RogersTanimotoDissimilarity.md
+* matheclipse-core\src\main\resources\Roots.md => symja\src\main\resources\Roots.md
+* matheclipse-core\src\main\resources\RotateLeft.md => symja\src\main\resources\RotateLeft.md
+* matheclipse-core\src\main\resources\RotateRight.md => symja\src\main\resources\RotateRight.md
+* matheclipse-core\src\main\resources\RotationMatrix.md => symja\src\main\resources\RotationMatrix.md
+* matheclipse-core\src\main\resources\Round.md => symja\src\main\resources\Round.md
+* matheclipse-core\src\main\resources\RowReduce.md => symja\src\main\resources\RowReduce.md
+* matheclipse-core\src\main\resources\Rule.md => symja\src\main\resources\Rule.md
+* matheclipse-core\src\main\resources\RuleDelayed.md => symja\src\main\resources\RuleDelayed.md
+* matheclipse-core\src\main\resources\RussellRaoDissimilarity.md => symja\src\main\resources\RussellRaoDissimilarity.md
+* matheclipse-core\src\main\resources\SameQ.md => symja\src\main\resources\SameQ.md
+* matheclipse-core\src\main\resources\SatisfiabilityCount.md => symja\src\main\resources\SatisfiabilityCount.md
+* matheclipse-core\src\main\resources\SatisfiabilityInstances.md => symja\src\main\resources\SatisfiabilityInstances.md
+* matheclipse-core\src\main\resources\SatisfiableQ.md => symja\src\main\resources\SatisfiableQ.md
+* matheclipse-core\src\main\resources\Scan.md => symja\src\main\resources\Scan.md
+* matheclipse-core\src\main\resources\Sec.md => symja\src\main\resources\Sec.md
+* matheclipse-core\src\main\resources\Sech.md => symja\src\main\resources\Sech.md
+* matheclipse-core\src\main\resources\Select.md => symja\src\main\resources\Select.md
+* matheclipse-core\src\main\resources\Series.md => symja\src\main\resources\Series.md
+* matheclipse-core\src\main\resources\SeriesCoefficient.md => symja\src\main\resources\SeriesCoefficient.md
+* matheclipse-core\src\main\resources\SeriesData.md => symja\src\main\resources\SeriesData.md
+* matheclipse-core\src\main\resources\Set.md => symja\src\main\resources\Set.md
+* matheclipse-core\src\main\resources\SetAttributes.md => symja\src\main\resources\SetAttributes.md
+* matheclipse-core\src\main\resources\SetDelayed.md => symja\src\main\resources\SetDelayed.md
+* matheclipse-core\src\main\resources\Sign.md => symja\src\main\resources\Sign.md
+* matheclipse-core\src\main\resources\Simplify.md => symja\src\main\resources\Simplify.md
+* matheclipse-core\src\main\resources\Sin.md => symja\src\main\resources\Sin.md
+* matheclipse-core\src\main\resources\Sinc.md => symja\src\main\resources\Sinc.md
+* matheclipse-core\src\main\resources\SingularValueDecomposition.md => symja\src\main\resources\SingularValueDecomposition.md
+* matheclipse-core\src\main\resources\Sinh.md => symja\src\main\resources\Sinh.md
+* matheclipse-core\src\main\resources\Skewness.md => symja\src\main\resources\Skewness.md
+* matheclipse-core\src\main\resources\Slot.md => symja\src\main\resources\Slot.md
+* matheclipse-core\src\main\resources\SlotSequence.md => symja\src\main\resources\SlotSequence.md
+* matheclipse-core\src\main\resources\SokalSneathDissimilarity.md => symja\src\main\resources\SokalSneathDissimilarity.md
+* matheclipse-core\src\main\resources\Solve.md => symja\src\main\resources\Solve.md
+* matheclipse-core\src\main\resources\Sort.md => symja\src\main\resources\Sort.md
+* matheclipse-core\src\main\resources\Sow.md => symja\src\main\resources\Sow.md
+* matheclipse-core\src\main\resources\Span.md => symja\src\main\resources\Span.md
+* matheclipse-core\src\main\resources\Split.md => symja\src\main\resources\Split.md
+* matheclipse-core\src\main\resources\SplitBy.md => symja\src\main\resources\SplitBy.md
+* matheclipse-core\src\main\resources\Sqrt.md => symja\src\main\resources\Sqrt.md
+* matheclipse-core\src\main\resources\SquaredEuclideanDistance.md => symja\src\main\resources\SquaredEuclideanDistance.md
+* matheclipse-core\src\main\resources\SquareFreeQ.md => symja\src\main\resources\SquareFreeQ.md
+* matheclipse-core\src\main\resources\SquareMatrixQ.md => symja\src\main\resources\SquareMatrixQ.md
+* matheclipse-core\src\main\resources\StandardDeviation.md => symja\src\main\resources\StandardDeviation.md
+* matheclipse-core\src\main\resources\StirlingS1.md => symja\src\main\resources\StirlingS1.md
+* matheclipse-core\src\main\resources\StirlingS2.md => symja\src\main\resources\StirlingS2.md
+* matheclipse-core\src\main\resources\StringQ.md => symja\src\main\resources\StringQ.md
+* matheclipse-core\src\main\resources\StruveH.md => symja\src\main\resources\StruveH.md
+* matheclipse-core\src\main\resources\StruveL.md => symja\src\main\resources\StruveL.md
+* matheclipse-core\src\main\resources\StudentTDistribution.md => symja\src\main\resources\StudentTDistribution.md
+* matheclipse-core\src\main\resources\Subdivide.md => symja\src\main\resources\Subdivide.md
+* matheclipse-core\src\main\resources\Subfactorial.md => symja\src\main\resources\Subfactorial.md
+* matheclipse-core\src\main\resources\Subsets.md => symja\src\main\resources\Subsets.md
+* matheclipse-core\src\main\resources\Subtract.md => symja\src\main\resources\Subtract.md
+* matheclipse-core\src\main\resources\SubtractFrom.md => symja\src\main\resources\SubtractFrom.md
+* matheclipse-core\src\main\resources\Sum.md => symja\src\main\resources\Sum.md
+* matheclipse-core\src\main\resources\Surd.md => symja\src\main\resources\Surd.md
+* matheclipse-core\src\main\resources\Switch.md => symja\src\main\resources\Switch.md
+* matheclipse-core\src\main\resources\Symbol.md => symja\src\main\resources\Symbol.md
+* matheclipse-core\src\main\resources\SymbolName.md => symja\src\main\resources\SymbolName.md
+* matheclipse-core\src\main\resources\SymbolQ.md => symja\src\main\resources\SymbolQ.md
+* matheclipse-core\src\main\resources\SymmetricMatrixQ.md => symja\src\main\resources\SymmetricMatrixQ.md
+* matheclipse-core\src\main\resources\SyntaxQ.md => symja\src\main\resources\SyntaxQ.md
+* matheclipse-core\src\main\resources\Table.md => symja\src\main\resources\Table.md
+* matheclipse-core\src\main\resources\Take.md => symja\src\main\resources\Take.md
+* matheclipse-core\src\main\resources\Tan.md => symja\src\main\resources\Tan.md
+* matheclipse-core\src\main\resources\Tanh.md => symja\src\main\resources\Tanh.md
+* matheclipse-core\src\main\resources\TautologyQ.md => symja\src\main\resources\TautologyQ.md
+* matheclipse-core\src\main\resources\TeXForm.md => symja\src\main\resources\TeXForm.md
+* matheclipse-core\src\main\resources\Thread.md => symja\src\main\resources\Thread.md
+* matheclipse-core\src\main\resources\Through.md => symja\src\main\resources\Through.md
+* matheclipse-core\src\main\resources\Times.md => symja\src\main\resources\Times.md
+* matheclipse-core\src\main\resources\TimesBy.md => symja\src\main\resources\TimesBy.md
+* matheclipse-core\src\main\resources\TimeValue.md => symja\src\main\resources\TimeValue.md
+* matheclipse-core\src\main\resources\Timing.md => symja\src\main\resources\Timing.md
+* matheclipse-core\src\main\resources\ToCharacterCode.md => symja\src\main\resources\ToCharacterCode.md
+* matheclipse-core\src\main\resources\ToeplitzMatrix.md => symja\src\main\resources\ToeplitzMatrix.md
+* matheclipse-core\src\main\resources\ToExpression.md => symja\src\main\resources\ToExpression.md
+* matheclipse-core\src\main\resources\Together.md => symja\src\main\resources\Together.md
+* matheclipse-core\src\main\resources\ToPolarCoordinates.md => symja\src\main\resources\ToPolarCoordinates.md
+* matheclipse-core\src\main\resources\ToString.md => symja\src\main\resources\ToString.md
+* matheclipse-core\src\main\resources\Total.md => symja\src\main\resources\Total.md
+* matheclipse-core\src\main\resources\Tr.md => symja\src\main\resources\Tr.md
+* matheclipse-core\src\main\resources\Trace.md => symja\src\main\resources\Trace.md
+* matheclipse-core\src\main\resources\Transpose.md => symja\src\main\resources\Transpose.md
+* matheclipse-core\src\main\resources\TrigExpand.md => symja\src\main\resources\TrigExpand.md
+* matheclipse-core\src\main\resources\TrigReduce.md => symja\src\main\resources\TrigReduce.md
+* matheclipse-core\src\main\resources\TrigToExp.md => symja\src\main\resources\TrigToExp.md
+* matheclipse-core\src\main\resources\True.md => symja\src\main\resources\True.md
+* matheclipse-core\src\main\resources\TrueQ.md => symja\src\main\resources\TrueQ.md
+* matheclipse-core\src\main\resources\Tuples.md => symja\src\main\resources\Tuples.md
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\command-line-usage.txt => symja\src\main\resources\uk\ac\ed\ph\snuggletex\command-line-usage.txt
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\core-error-messages.properties => symja\src\main\resources\uk\ac\ed\ph\snuggletex\core-error-messages.properties
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\css.properties => symja\src\main\resources\uk\ac\ed\ph\snuggletex\css.properties
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\extract-child-nodes.xsl => symja\src\main\resources\uk\ac\ed\ph\snuggletex\extract-child-nodes.xsl
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\general-messages.properties => symja\src\main\resources\uk\ac\ed\ph\snuggletex\general-messages.properties
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\mathml-entities-map.xsl => symja\src\main\resources\uk\ac\ed\ph\snuggletex\mathml-entities-map.xsl
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\mathml-to-xhtml.xsl => symja\src\main\resources\uk\ac\ed\ph\snuggletex\mathml-to-xhtml.xsl
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\serialize-with-named-entities.xsl => symja\src\main\resources\uk\ac\ed\ph\snuggletex\serialize-with-named-entities.xsl
+* matheclipse-core\src\main\resources\uk\ac\ed\ph\snuggletex\xhtml-to-html.xsl => symja\src\main\resources\uk\ac\ed\ph\snuggletex\xhtml-to-html.xsl
+* matheclipse-core\src\main\resources\Unequal.md => symja\src\main\resources\Unequal.md
+* matheclipse-core\src\main\resources\UniformDistribution.md => symja\src\main\resources\UniformDistribution.md
+* matheclipse-core\src\main\resources\Union.md => symja\src\main\resources\Union.md
+* matheclipse-core\src\main\resources\Unique.md => symja\src\main\resources\Unique.md
+* matheclipse-core\src\main\resources\unit\si.properties => symja\src\main\resources\unit\si.properties
+* matheclipse-core\src\main\resources\UnitConvert.md => symja\src\main\resources\UnitConvert.md
+* matheclipse-core\src\main\resources\Unitize.md => symja\src\main\resources\Unitize.md
+* matheclipse-core\src\main\resources\UnitStep.md => symja\src\main\resources\UnitStep.md
+* matheclipse-core\src\main\resources\UnitVector.md => symja\src\main\resources\UnitVector.md
+* matheclipse-core\src\main\resources\UnsameQ.md => symja\src\main\resources\UnsameQ.md
+* matheclipse-core\src\main\resources\Unset.md => symja\src\main\resources\Unset.md
+* matheclipse-core\src\main\resources\UpperCaseQ.md => symja\src\main\resources\UpperCaseQ.md
+* matheclipse-core\src\main\resources\UpperTriangularize.md => symja\src\main\resources\UpperTriangularize.md
+* matheclipse-core\src\main\resources\ValueQ.md => symja\src\main\resources\ValueQ.md
+* matheclipse-core\src\main\resources\VandermondeMatrix.md => symja\src\main\resources\VandermondeMatrix.md
+* matheclipse-core\src\main\resources\Variables.md => symja\src\main\resources\Variables.md
+* matheclipse-core\src\main\resources\Variance.md => symja\src\main\resources\Variance.md
+* matheclipse-core\src\main\resources\VectorAngle.md => symja\src\main\resources\VectorAngle.md
+* matheclipse-core\src\main\resources\VectorQ.md => symja\src\main\resources\VectorQ.md
+* matheclipse-core\src\main\resources\version.txt => symja\src\main\resources\version.txt
+* matheclipse-core\src\main\resources\WeibullDistribution.md => symja\src\main\resources\WeibullDistribution.md
+* matheclipse-core\src\main\resources\Which.md => symja\src\main\resources\Which.md
+* matheclipse-core\src\main\resources\While.md => symja\src\main\resources\While.md
+* matheclipse-core\src\main\resources\With.md => symja\src\main\resources\With.md
+* matheclipse-core\src\main\resources\Xor.md => symja\src\main\resources\Xor.md
+* matheclipse-core\src\main\resources\YuleDissimilarity.md => symja\src\main\resources\YuleDissimilarity.md
+* matheclipse-core\src\main\resources\Zeta.md => symja\src\main\resources\Zeta.md
+* matheclipse-core\src\test\java\ => symja\src\main\java\
+* matheclipse-core\src\test\java\org\matheclipse\core\rubi\failed_rubi_tests.txt => symja\src\main\resources\org\matheclipse\core\rubi\failed_rubi_tests.txt
+* matheclipse-core\src\test\java\org\matheclipse\core\rubi\step02\failed_rubi_tests.txt => symja\src\main\resources\org\matheclipse\core\rubi\step02\failed_rubi_tests.txt
+* matheclipse-core\src\test\java\org\matheclipse\parser\test\eval\package.html => symja\src\main\resources\org\matheclipse\parser\test\eval\package.html
+* matheclipse-core\src\test\java\org\matheclipse\parser\test\package.html => symja\src\main\resources\org\matheclipse\parser\test\package.html
+* matheclipse-core\src\test\resources\ => symja\src\main\java\
+* matheclipse-core\src\test\resources\io\gray15x9.jpg => symja\src\main\resources\io\gray15x9.jpg
+* matheclipse-core\src\test\resources\io\gray15x9.png => symja\src\main\resources\io\gray15x9.png
+* matheclipse-core\src\test\resources\io\rgb15x33.jpg => symja\src\main\resources\io\rgb15x33.jpg
+* matheclipse-core\src\test\resources\io\rgba15x33.png => symja\src\main\resources\io\rgba15x33.png
+* matheclipse-core\src\test\resources\mma\VectorAnalysis.m => symja\src\main\resources\mma\VectorAnalysis.m
+* matheclipse-core\src\test\resources\symja\VectorAnalysis.m => symja\src\main\resources\symja\VectorAnalysis.m
+* tools\src\main\java\ => symja\src\main\java\
+* tools\src\main\java\org\matheclipse\core\preprocessor\element.csv => symja\src\main\resources\org\matheclipse\core\preprocessor\element.csv
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
